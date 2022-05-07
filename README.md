@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working with **[Avista Technology Solutions Pvt Ltd.](https://ats360.com/)**
+- 🔭 I’m currently working with **[Azentio Software Pvt. Ltd.](https://www.azentio.com/)**
 
 - 🌱 I’m currently learning **React and Angular 10**
 
