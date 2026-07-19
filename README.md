@@ -1,83 +1,160 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png" alt="Banner"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankit kadam</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 align="center">Hi 👋, I'm Ankit Kadam</h1>
+<h3 align="center">Software Engineer · Hybrid Mobile & Full Stack · Mumbai, India</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankit-kadam-61442115a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ankitkadam63@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://ankit-kadam24.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Ankit-kadam24&style=for-the-badge&color=5BCDEC" alt="Profile views"/>
+</p>
+
+---
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working with **[Azentio Software Pvt. Ltd.](https://www.azentio.com/)**
+**Software Engineer with 5+ years of experience** in hybrid mobile development and full-stack solutions. I build elegant, scalable, user-friendly applications that solve real-world problems.
 
-- 🌱 I’m currently learning **React and Angular 10**
+- 🔭 Currently **Assistant Manager (IT)** at **BOBCARD Pvt. Ltd.**, working on the credit card mobile app
+- 📱 I specialize in **Angular · Ionic · TypeScript** — shipping to both the Play Store and App Store
+- 🏦 Domain depth in **banking & fintech** — payments, offers, secure APIs, compliance
+- 🧰 Comfortable across the stack: **.NET / C# / ASP.NET** on the backend, **SQL Server / MySQL / PL-SQL** for data
+- 🤖 Daily driver AI tools: **Claude, ChatGPT, GitHub Copilot, Cursor**
+- 📫 Reach me at **ankitkadam1997@gmail.com**
+- ⚡ Fun fact: I treat every bug like a puzzle to solve.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+---
 
-- 👨‍💻 All of my details are available at **[My Portfolio](https://ankit-kadam24.github.io/My-Portfolio/)**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **ankitkadam1997@gmail.com**
+**Frontend & Mobile**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-## 🚀 Languages and Tools:
+**Backend & Data**
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://angularjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.oracle.com/in/index.html" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/oracle-logo.png"/> </a> 
-    <a href="https://ionicframework.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/ionic.png"/></a> 
-    <a href="https://redux.js.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a> 
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
-</p>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+<!-- ## 💼 Experience
+
+### 🏦 Assistant Manager (IT) — BOBCARD Pvt. Ltd., Mumbai
+`Jan 2026 – Present`
+
+Cross-platform mobile app that lets users manage their credit cards digitally.
+
+- Built real-time transaction tracking, bill payments, reward point management, and personalized offers
+- Shipped **SIM Binding**, a custom **Offer Management System (OMS)**, **Checkout Offers SDK** integration, and push notifications via **Firebase FCM**
+- Integrated deep linking, third-party SDKs, and secure RESTful APIs
+- Owned the full deployment lifecycle on **Google Play** and the **App Store**, including policy compliance and release timing
+- Agile delivery with Git and JIRA
+
+### 📱 Angular / Ionic Developer — Runtime Solutions Pvt. Ltd., Mumbai
+`Oct 2024 – Dec 2025`
+
+Engaged with BOBCARD as a third-party vendor on the same mobile platform.
+
+### 💳 Software Engineer — Azentio Software Pvt. Ltd., Mumbai
+`Mar 2022 – Oct 2024`
+
+Hybrid mobile development with **Ionic + Angular** for banking and finance enterprise solutions.
+
+- Built new modules and client-driven features across Android, iOS, and web
+- Handled API integration and testing in **Postman** with token-based auth
+- Backend work in **PL/SQL** (DDL/DML, schema updates)
+- Deployed via **JBoss** and **Apache Tomcat**; managed builds through Android Studio and Xcode
+- Versioning with **TortoiseSVN** and **Git**; direct client requirement-gathering
+
+### 🏭 Software Engineer — Avista Technology Solutions Pvt. Ltd., Mumbai
+`Oct 2021 – Feb 2022`
+
+Full-stack development with **VB.NET, C#, ASP.NET** plus JavaScript, jQuery, ReactJS, AngularJS, Node.js, and TypeScript.
+
+- Built modules for factory asset management, inventory control, and risk management
+- Rich, responsive UIs with **Kendo UI (Telerik)** — heavy use of KendoGrid
+- Visual Studio 2019 and SSMS for development and query optimization
+
+### 🎓 Applications Developer Intern — Tata Consultancy Services Ltd., Mumbai
+`Feb 2021 – Jul 2021`
+
+Full-stack intern on a matrimonial mobile app — **Angular 7, Ionic, Node.js, MySQL**.
+
+- Led frontend work; designed UI and prototypes in **Figma** and **Adobe XD**
+- Implemented real-time user status visibility and dynamic UI components
+- Supported an admin panel for manual document verification workflows
+
+---
+
+## 🎓 Education
+
+| Qualification | Institution | Year |
+| :--- | :--- | :--- |
+| **MCA** — Master of Computer Application | VIVA School of MCA, Virar | 2018 – 2021 |
+| **BSc-IT** — Information Technology | Annasaheb Vartak College, Vasai | 2015 – 2018 |
+| **HSC** — Senior High School | VIVA College, Virar | 2014 – 2015 |
+| **SSC** — Junior High School | Vidhya Bhushan School, NSP | 2012 – 2013 |
+
+---
+
+## 📜 Certifications
+
+- **Internship Certificate** — Tata Consultancy Services (TCS) · *Feb – Jul 2021*
+- **Angular Essential Training** — LinkedIn Learning · *Feb 2021*
+- **Git Essential Training** — LinkedIn Learning · *Mar 2021*
+- **Beginner to Advanced WordPress** — Web Infotech · *Aug 2021*
+
+--- -->
+
+## 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/Ankit-kadam24/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-kadam24&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ankit-kadam24&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Ankit's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-kadam24&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top languages"/>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/Ankit-kadam24/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ankit-kadam24&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ankit-kadam24/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-kadam24&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/Ankit-kadam24/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ankit-kadam24&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/ankit-kadam-61442115a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Ankit_Kadam24?s=08"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_mr.kadam_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/ankit.kadam.7587/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-<a href = "https://join.skype.com/invite/yRnoxTH7mxvd"><img src="https://img.icons8.com/color/48/000000/skype--v1.png"/></a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ankit-kadam24&theme=black-ice&hide_border=true&background=0D1117" alt="GitHub streak"/>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Ankit-kadam24">
-</a>
-<a href="https://github.com/Ankit-kadam24?tab=followers"><img src="https://img.shields.io/github/followers/Ankit-kadam24?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-kadam24&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity graph"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankit-kadam-61442115a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/Ankit_Kadam24"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_mr.kadam_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:ankitkadam63@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center"><i>🗣️ English · Hindi · Marathi</i></p>
